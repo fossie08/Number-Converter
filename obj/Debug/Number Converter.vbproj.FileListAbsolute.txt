@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Number Converter\Number Converter\obj\Debug\Number Converter.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Number Converter\Number Converter\bin\Debug\Number Converter.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Number Converter\Number Converter\bin\Debug\Number Converter.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Number Converter\Number Converter\obj\Debug\Number Converter.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Number Converter\Number Converter\obj\Debug\Number Converter.pdb
